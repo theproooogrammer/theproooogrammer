@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theproooogrammer
+- "👋 Hey there! I'm Kishor M Chintalchere, a front-end developer passionate about crafting delightful user experiences with React and Vue.js."
 - 👀 I’m interested in java, javaScript, C++, Web Devlopment, Android Devlopment
 - 🌱 I’m currently learning Vue.js
 
